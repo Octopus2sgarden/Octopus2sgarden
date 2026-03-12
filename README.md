@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Seda 👋
 
-<!--
-**Octopus2sgarden/Octopus2sgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics graduate from Boğaziçi University
+💻 Software Engineering Master's Student
+📍 Istanbul, Turkey
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently learning **Deep Learning and Software Engineering**
+* Interested in **backend development, algorithms and machine learning**
+* I enjoy solving complex problems and building things from scratch
+
+## Tech Stack
+
+Java • Python • C • SQL • Git
+
+## Currently Working On
+
+* Implementing **data structures and algorithms**
+* Building a **MNIST autoencoder**
+* Improving my **software engineering skills**
+
+## Fun Facts
+
+🧩 I love solving puzzles and Rubik’s cubes
+🎨 I work as a freelance illustrator
+♟️ Chess enthusiast
+☕ Coffee makes debugging easier
+
+## Connect With Me
+
+📧 [sedagn23@gmail.com](mailto:sedagn23@gmail.com)
