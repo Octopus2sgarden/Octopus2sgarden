@@ -29,3 +29,4 @@ Java • Python • C • SQL • Git
 ## Connect With Me
 
 📧 [sedagn23@gmail.com](mailto:sedagn23@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sedagunes-/)  
