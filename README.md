@@ -23,8 +23,7 @@ Java • Python • C • SQL • Git
 ## Fun Facts
 
 🧩 I love solving puzzles and Rubik’s cubes
-🎨 I work as a freelance illustrator
-♟️ Chess enthusiast
+🎨 I worked as a freelance illustrator
 ☕ Coffee makes debugging easier
 
 ## Connect With Me
