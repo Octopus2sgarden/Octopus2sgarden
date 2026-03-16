@@ -14,11 +14,6 @@
 
 Java • Python • C • SQL • Git
 
-## Fun Facts
-
-🧩 I love solving puzzles and Rubik’s cubes
-🎨 I worked as a freelance illustrator
-
 ## Connect With Me
 
 📧 [sedagn23@gmail.com](mailto:sedagn23@gmail.com)
