@@ -14,17 +14,10 @@
 
 Java • Python • C • SQL • Git
 
-## Currently Working On
-
-* Implementing **data structures and algorithms**
-* Building a **MNIST autoencoder**
-* Improving my **software engineering skills**
-
 ## Fun Facts
 
 🧩 I love solving puzzles and Rubik’s cubes
 🎨 I worked as a freelance illustrator
-☕ Coffee makes debugging easier
 
 ## Connect With Me
 
